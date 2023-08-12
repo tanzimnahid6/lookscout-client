@@ -3,7 +3,7 @@ import NavBar from "../components/Header/NavBar";
 
 const Main = () => {
   return (
-    <div className="max-w-[1440px]">
+    <div className="max-w-[1440px] ">
       <NavBar></NavBar>
       <Banner></Banner>
     </div>
