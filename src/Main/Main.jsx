@@ -5,11 +5,12 @@ import RefundingSection from "../components/refunding/RefundingSection";
 
 const Main = () => {
   return (
-    <div className="w-full ">
+    <div>
       <NavBar></NavBar>
       <Banner></Banner>
       <Message></Message>
-      {/* <RefundingSection></RefundingSection> */}
+      <RefundingSection></RefundingSection>
+
     </div>
   );
 };

@@ -10,7 +10,7 @@ const Banner = () => {
             Your supercharged Design Workflow
           </h1>
           <p className="text-xl text-gray-300 mt-8">
-            We’ve been told it is not possible to overachieve our customers’
+            We have been told it is not possible to overachieve our customers’
             expectations. We have not reinvented the wheel, we decided to
             build upon it. <br />
           </p>
