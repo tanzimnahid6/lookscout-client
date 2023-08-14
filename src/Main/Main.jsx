@@ -1,3 +1,4 @@
+import Blog from "../components/Blog/Blog";
 import Banner from "../components/Header/Banner";
 import NavBar from "../components/Header/NavBar";
 import LeftToright from "../components/leftToright/leftToright";
@@ -14,6 +15,7 @@ const Main = () => {
       <RefundingSection></RefundingSection>
       <LeftToright></LeftToright>
       <Testimonial></Testimonial>
+      <Blog></Blog>
     </div>
   );
 };
