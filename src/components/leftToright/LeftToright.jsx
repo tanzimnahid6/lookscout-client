@@ -2,8 +2,8 @@ import { BsArrowRightShort } from "react-icons/bs";
 
 const LeftToright = () => {
   return (
-    <div className="mt-[300px] md:mt-12 px-[50px]  ">
-      <div className="md:flex justify-between  bg-[#151B28] px-8  items-center">
+    <div className="mt-[300px] bg-[#151B28] md:mt-12 px-[50px]  ">
+      <div className="md:flex justify-between   px-8  items-center">
         <div className=" w-full md:w-auto">
           <img src="./left-photo.png" className="scale-75" alt="" />
         </div>
