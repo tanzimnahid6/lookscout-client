@@ -15,8 +15,9 @@
  - This is a large landing page project .There are many tiny section , I face some challenge for maintain responsive but i overcome this issu .
 
 
- - [Live Link](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Git Hub](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Live Link](https://lookscout1.netlify.app/)
+ 
+ 
  
 
 
