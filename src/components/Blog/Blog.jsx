@@ -2,9 +2,9 @@
 
 const Blog = () => {
     return (
-      <div className="  mx-auto mt-16">
+      <div className=" mb-12  mx-auto mt-16">
         <div className="text-center w-3/4 mx-auto">
-          <h1 className="text-[32px] font-bold">Latest Blog Posts</h1>
+          <h1 className="text-3xl font-bold">Latest Blog Posts</h1>
           <p className="text-[16px] md:px-32 ">
             Completely synergize resource taxing relationships via premier niche
             markets. Professionally cultivate one-to-one customer service with
