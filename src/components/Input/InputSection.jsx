@@ -14,7 +14,7 @@ const InputSection = () => {
           <input
             type="email"
             placeholder="Enter Your Email"
-            className=" h-[46px] px-2 border-2 shadow-md border-black  md:w-[388px] rounded sm:rounded-e-none "
+            className=" h-[46px] px-2 border-2 border-gray-400 shadow-md  md:w-[388px] rounded sm:rounded-e-none "
           />
           <button className="btn h-[46px] sm:px-10 w-80  sm:w-12 btn-primary sm:rounded-s-none ">
             Submit

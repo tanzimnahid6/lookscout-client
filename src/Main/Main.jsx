@@ -1,4 +1,5 @@
 import Blog from "../components/Blog/Blog";
+import Footer from "../components/Footer/Footer";
 import Banner from "../components/Header/Banner";
 import NavBar from "../components/Header/NavBar";
 import InputSection from "../components/Input/InputSection";
@@ -20,6 +21,7 @@ const Main = () => {
       <Blog></Blog>
       <Sponsored></Sponsored>
       <InputSection></InputSection>
+      <Footer></Footer>
     </div>
   );
 };
