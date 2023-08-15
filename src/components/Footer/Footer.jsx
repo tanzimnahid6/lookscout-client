@@ -10,7 +10,7 @@ const Footer = () => {
               {/* Logo  */}
               <div className="space-y-4 w-5/6 md:order-1 lg:order-1 col-span-2 md:col-auto mb-5 md:mb-0">
                 <div className="">
-                  <img src="./public/lookscout.png" alt="" />
+                  <img src="./lookscout.png" alt="" />
                 </div>
                 <p className="text-[#A5ACBA] ">
                   Generate outside the box thinking with the possibility to

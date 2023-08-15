@@ -3,7 +3,7 @@ import { BsArrowRightShort } from "react-icons/bs";
 const Redefining = () => {
   return (
     <div className="mt-[50px] px-[50px] ">
-      <div className="text-center md:w-[800px] mx-auto h-24">
+      <div className="text-center md:w-[800px] mx-auto h-1/2">
         <h1 className="text-3xl font-bold leading-10">
           Redefining Product Features
         </h1>
@@ -22,7 +22,7 @@ const Redefining = () => {
           />
           <img
             src="./res-photo.png"
-            className="md:hidden w-full py-4 "
+            className="md:hidden h-4/5 my-8  sm:pt-2 sm:my-2 w-full py-4 "
             alt=""
           />
         </div>
