@@ -2,7 +2,7 @@ import { BsArrowRightShort } from "react-icons/bs";
 
 const LeftToright = () => {
   return (
-    <div className="mt-[300px] bg-[#151B28] md:mt-12 px-[50px]  ">
+    <div className="mt-[300px] bg-[#151B28] md:mt-12 py-4 mb-8 px-[50px]  ">
       <div className="md:flex justify-between   px-8  items-center">
         <div className=" w-full md:w-auto">
           <img src="./left-photo.png" className="scale-75" alt="" />
@@ -33,7 +33,7 @@ const LeftToright = () => {
             </div>
             <div className="flex gap-2 items-start justify-start ">
               <div>
-                <img className="mt-1 scale-90" src="./icone5.png" alt="" />
+                <img className="mt-1 scale-90" src="./light.png" alt="" />
               </div>
               <div>
                 <h1 className=" font-bold ">Bring those ideas to life</h1>
@@ -55,7 +55,7 @@ const LeftToright = () => {
             </div>
             <div className="flex gap-2 items-start justify-start ">
               <div>
-                <img className="mt-1 scale-90" src="./icone5.png" alt="" />
+                <img className="mt-1 scale-90" src="./basket-ball.png" alt="" />
               </div>
               <div>
                 <h1 className=" font-bold ">Ship better outcomes</h1>

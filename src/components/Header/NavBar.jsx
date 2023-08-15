@@ -21,11 +21,11 @@ const Navbar = () => {
               Home
             </a>
             <a href="#" className="text-white">
-              About
+              Our Product
             </a>
             <div className="relative group">
               <button className="text-white flex items-center">
-                Services
+                Resources
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
@@ -41,7 +41,7 @@ const Navbar = () => {
                   ></path>
                 </svg>
               </button>
-              <div className="absolute hidden bg-white mt-2 py-2 w-32 rounded-lg shadow-lg group-hover:block">
+              <div className="absolute hidden bg-blue-300 text-white mt-2 py-2 w-32 rounded-lg shadow-lg group-hover:block">
                 <a
                   href="#"
                   className="block px-4 py-2 text-gray-800 hover:bg-gray-100"
@@ -63,7 +63,7 @@ const Navbar = () => {
               </div>
             </div>
             <a href="#" className="text-white">
-              Contact
+              Contacts
             </a>
           </div>
         </div>
@@ -104,13 +104,13 @@ const Navbar = () => {
           Home
         </a>
         <a href="#" className="block py-2 px-4 text-white">
-          About
+          Our Product
         </a>
         <a href="#" className="block py-2 px-4 text-white">
-          Services
+          Resources
         </a>
         <a href="#" className="block py-2 px-4 text-white">
-          Contact
+          Contacts
         </a>
       </div>
     </nav>

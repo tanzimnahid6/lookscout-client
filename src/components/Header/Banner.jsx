@@ -16,7 +16,7 @@ const Banner = () => {
           </p>
         </div>
         <span className="">
-          <button className="bg-[#437EF7] text-white w-[120px] rounded-[6px] h-[45px]">
+          <button className="bg-[#437EF7] text-white w-full sm:w-[120px] rounded-[6px] h-[45px]">
             Get Started
           </button>
         </span>

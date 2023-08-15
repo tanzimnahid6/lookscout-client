@@ -5,7 +5,8 @@ import NavBar from "../components/Header/NavBar";
 import InputSection from "../components/Input/InputSection";
 import LeftToright from "../components/leftToright/leftToright";
 import Message from "../components/messaging/Message";
-import RefundingSection from "../components/refunding/RefundingSection";
+import Redefining from "../components/refunding/Redefining";
+
 import Sponsored from "../components/sponsore-logo/Sponsored";
 import Testimonial from "../components/testimonial/Testimonial";
 
@@ -15,7 +16,7 @@ const Main = () => {
       <NavBar></NavBar>
       <Banner></Banner>
       <Message></Message>
-      <RefundingSection></RefundingSection>
+      <Redefining></Redefining>
       <LeftToright></LeftToright>
       <Testimonial></Testimonial>
       <Blog></Blog>

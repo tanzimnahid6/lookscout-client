@@ -9,7 +9,7 @@ const Sponsored = () => {
           state of the art customer service.
         </p>
       </div>
-      <div className="mt-12 grid grid-cols-1  md:grid-cols-4 lg:grid-cols-6 justify-center">
+      <div className="mt-12 grid grid-cols-1  md:grid-cols-4 lg:grid-cols-6 place-items-center">
         <img className="scale-75  sm:w-4/5 w-2/3     " src="./verge.png" alt="" />
         <img className="scale-75 sm:w-4/5 w-2/3 " src="./slack.png" alt="" />
         <img className="scale-75 sm:w-4/5 w-2/3" src="./google.png" alt="" />
